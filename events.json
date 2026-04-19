@@ -1,10 +1,12 @@
 {
-  "events": [
-    {
-      "key": "mon 9 am",
-      "static": "Mon9AMTexture",
-      "gif": "https://...",
-      "landmark": "LM1",
-    }
-  ]
+  "mon 9 am": {
+    "static": "Mon9AMTexture",
+    "gif": "https://example.com/gif1.gif",
+    "landmark": "Landmark1"
+  },
+  "mon 6 pm": {
+    "static": "Mon6PMTexture",
+    "gif": "https://example.com/gif2.gif",
+    "landmark": "Landmark2"
+  }
 }
