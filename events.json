@@ -2,27 +2,9 @@
   "events": [
     {
       "key": "mon 9 am",
-      "static": "Mon9AM",
-      "gif": "https://drive.google.com/uc?export=download&id=FILE_ID_1",
-      "landmark": "UUID_OF_LANDMARK_1"
-    },
-    {
-      "key": "mon 11 am",
-      "static": "Mon11AM",
-      "gif": "https://drive.google.com/uc?export=download&id=FILE_ID_2",
-      "landmark": "UUID_OF_LANDMARK_2"
-    },
-    {
-      "key": "tue 9 am",
-      "static": "Tue9AM",
-      "gif": "https://drive.google.com/uc?export=download&id=FILE_ID_3",
-      "landmark": "UUID_OF_LANDMARK_3"
-    },
-    {
-      "key": "wed 1 am",
-      "static": "Wed1AM",
-      "gif": "https://drive.google.com/uc?export=download&id=FILE_ID_4",
-      "landmark": "UUID_OF_LANDMARK_4"
+      "static": "Mon9AMTexture",
+      "gif": "https://...",
+      "landmark": "LM1",
     }
   ]
 }
