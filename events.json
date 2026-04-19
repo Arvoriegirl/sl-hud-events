@@ -1,0 +1,10 @@
+{
+  "events": [
+    {
+      "key": "mon 9 am",
+      "static": "Mon9AMTexture",
+      "gif": "https://drive.google.com/uc?export=download&id=FILE_ID",
+      "landmark": "LM_UUID_HERE"
+    }
+  ]
+}
